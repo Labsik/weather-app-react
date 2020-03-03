@@ -1,0 +1,12 @@
+.weatherMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.forecastWeather {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
