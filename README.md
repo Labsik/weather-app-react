@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+/*
+  Используя предложенный сервис (OpenWeatherMap) необходимо вывести данные о погоде на текущий день.
+  Отображаемые данные и внешний вид на свое усмотрение.
+    
+  Бонус - Вывести погоду на ближайшие 5 дней
+  Документация по API - https://openweathermap.org/api
+*/
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
